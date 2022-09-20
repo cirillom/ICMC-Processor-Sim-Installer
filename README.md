@@ -5,7 +5,7 @@ This installation process was tested with Ubuntu 11.10, Ubuntu 22.04 and Fedora 
 This repository should be used as a submodule for your github project.
 
 ```
-git submodule add 
+git submodule add https://github.com/cirillom/ICMC-processor-sim-installer
 ```
 
 In order to install the processor simulator you simply do:
