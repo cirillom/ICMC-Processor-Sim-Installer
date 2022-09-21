@@ -9,7 +9,7 @@ all: clean bin simulador montador
 
 
 clean:
-	@rm -rf bin/
+	sudo rm -rf bin/
 
 bin:
 	@mkdir bin/
